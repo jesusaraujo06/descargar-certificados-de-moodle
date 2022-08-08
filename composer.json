@@ -1,0 +1,15 @@
+{
+    "name": "caplaft/pdf-download",
+    "autoload": {
+        "psr-4": {
+            "Caplaft\\PdfDownload\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Jesus Araujo",
+            "email": "jesusaraujo.0699@gmail.com"
+        }
+    ],
+    "require": {}
+}
